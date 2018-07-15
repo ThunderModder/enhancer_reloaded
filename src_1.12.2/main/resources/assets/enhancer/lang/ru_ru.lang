@@ -1,0 +1,235 @@
+itemGroup.Enhancer_Modifiers=Enhancer Улучшения
+itemGroup.Enhancer_BlocksNItems=Enhancer Блоки и Предметы
+
+key.enhanced=Открыть Enhancer инвентарь
+key.categories.enhanced=Enhancer настройки
+
+tile.block_ultimate_charger.name=Продвинутый зарядник
+tileentity.ultimatecharger.name=Продвинутый зарядник
+
+item.item_powerupgrade.name=Улучшение силы
+item.item_capacityupgrade.name=Улучшение емкости
+item.item_flintplate.name=Кремнивая пластина
+item.item_dcircuit.name=Алмазная микросхема
+item.item_rcircuit.name=Красная микросхема
+item.item_lcircuit.name=Лазуритовая микросхема
+item.item_modcore.name=Ядро модификатора
+item.item_stpowermodule.name=Стандартный модуль силы
+item.item_stcapacitymodule.name=Стандартный модуль емкости
+item.item_programmer.name=Программатор
+item.item_lightning_shard.name=Шар молнии
+
+item.item_ut_speedmodifier.name=Модификатор
+item.item_ut_jumpmodifier.name=Модификатор
+item.item_ut_levitationmodifier.name=Модификатор
+item.item_ut_invmodifier.name=Модификатор
+item.item_ut_regenmodifier.name=Модификатор
+item.item_ut_magnetmodifier.name=Модификатор
+item.item_ut_wbmodifier.name=Модификатор
+item.item_ut_nvisionmodifier.name=Модификатор
+item.item_ut_flightmodifier.name=Модификатор
+item.item_ut_wsmodifier.name=Модификатор
+item.item_ut_saturmodifier.name=Модификатор
+item.item_ut_wwmodifier.name=Модификатор
+item.item_ut_lwmodifier.name=Модификатор
+item.item_ut_autosmmodifier.name=Модификатор
+item.item_cm_eburnmodifier.name=Модификатор
+item.item_cm_epoisonmodifier.name=Модификатор
+item.item_cm_ewithermodifier.name=Модификатор
+item.item_cm_eblindmodifier.name=Модификатор
+item.item_cm_eslowmodifier.name=Модификатор
+item.item_cm_astrengthmodifier.name=Модификатор
+item.item_cm_ajumpmodifier.name=Модификатор
+item.item_cm_aspeedmodifier.name=Модификатор
+item.item_cm_edisarmmodifier.name=Модификатор
+item.item_cm_eexplosionmodifier.name=Модификатор
+item.item_cm_eunluckmodifier.name=Модификатор
+item.item_cm_ehungermodifier.name=Модификатор
+item.item_cm_killordiemodifier.name=Модификатор
+item.item_cm_ahealmodifier.name=Модификатор
+item.item_cm_avampirismmodifier.name=Модификатор
+item.item_cm_amagicdamagemodifier.name=Модификатор
+item.item_cm_aabsorptionmodifier.name=Модификатор
+item.item_cm_aaoemodifier.name=Модификатор
+item.item_cm_aarmormodifier.name=Модификатор
+item.item_cm_eslowdownmodifier.name=Модификатор
+item.item_cm_enauseamodifier.name=Модификатор
+item.item_cm_ahpreplacementmodifier.name=Модификатор
+item.item_cm_aoelightningmodifier.name=Модификатор
+item.item_cm_erandomtpmodifier.name=Модификатор
+item.item_cm_elevitationmodifier.name=Модификатор
+item.item_def_fallingmodifier.name=Модификатор
+item.item_def_poisonmodifier.name=Модификатор
+item.item_def_magicmodifier.name=Модификатор
+item.item_def_cactusmodifier.name=Модификатор
+item.item_def_invisiblemodifier.name=Модификатор
+item.item_def_fireresmodifier.name=Модификатор
+item.item_def_adisarmmodifier.name=Модификатор
+item.item_def_arrowmodifier.name=Модификатор
+item.item_def_extmodifier.name=Модификатор
+item.item_def_hphealmodifier.name=Модификатор
+item.item_def_explosionmodifier.name=Модификатор
+item.item_def_luckmodifier.name=Модификатор
+item.item_def_aoermodifier.name=Модификатор
+item.item_def_protectionmodifier.name=Модификатор
+item.item_def_dmageblockmodifier.name=Модификатор
+item.item_def_ainvisiblemodifier.name=Модификатор
+item.item_def_absorbtionmodifier.name=Модификатор
+item.item_def_addhealthmodifier.name=Модификатор
+item.item_def_effectsremovemodifier.name=Модификатор
+item.item_def_invsavemodifier.name=Модификатор
+
+item.item_redstone_alloy.name=Красный сплав
+item.item_diamond_grinder.name=Алмазное точило
+
+item.item_weather_wand.name=Погодный жезл
+item.item_magnet.name=Красный магнит
+
+tooltip.charge=Заряд: 
+tooltip.power=Сила: 
+tooltip.description=Описание: 
+
+tooltip.tesrcharge=Заряд: 
+
+tooltip.grinder.uses=Прочность: 
+
+tooltip.type=Тип: 
+tooltip.type.defence=Защитный
+tooltip.type.utility=Вспомагательный
+tooltip.type.combat=Боевой
+
+tooltip.energy=Требует: 
+
+
+tooltip.item_cm_aarmormodifier.description=При ударе: Увеличивает урон по броне
+
+tooltip.item_cm_eburnmodifier.description=При ударе: воспламеняет врагов
+
+tooltip.item_cm_epoisonmodifier.description=При ударе: Накладывает эффект отравления на врагов
+
+tooltip.item_cm_ewithermodifier.description=При ударе: Накладывает эффект иссушения на врагов
+
+tooltip.item_cm_eblindmodifier.description=При ударе: Накладывает эффект слепоты на врагов
+
+tooltip.item_cm_eslowmodifier.description=При ударе: Накладывает эффект замедления на врагов
+
+tooltip.item_cm_astrengthmodifier.description=При ударе: 20 процентный шанс получить эффект силы
+
+tooltip.item_cm_ajumpmodifier.description=При ударе: Дает прыжки
+
+tooltip.item_cm_aspeedmodifier.description=При ударе: Дает скорость
+
+tooltip.item_cm_edisarmmodifier.description1=При ударе: 
+tooltip.item_cm_edisarmmodifier.description2= процентный шанс выбить оружие из рук врага
+
+tooltip.item_cm_eexplosionmodifier.description=При ударе: Создает взрыв около врага
+
+tooltip.item_cm_eunluckmodifier.description=При ударе: Накладывает эффект неудачи на врагов
+
+tooltip.item_cm_ehungermodifier.description=При ударе: Накладывает эффект голода на врагов
+
+tooltip.item_cm_killordiemodifier.description=При ударе: 50 процентный шанс убить врага или убить себя в противном случае
+
+tooltip.item_cm_ahealmodifier.description=При ударе: эффект исцеления
+
+tooltip.item_cm_avampirismmodifier.description=При ударе: 15 процентный шанс урасть здоровье у врага
+
+tooltip.item_cm_amagicdamagemodifier.description1=При ударе: 
+tooltip.item_cm_amagicdamagemodifier.description2= процентный шанс нанести дополнительный магический урон
+
+tooltip.item_cm_aabsorptionmodifier.description=При ударе: эффект абсорбции
+
+tooltip.item_cm_aaoemodifier.description1=При ударе: Наносит 20 процентов от вашего урона всем сущностям в радиусе
+tooltip.item_cm_aaoemodifier.description2=Радиус действия: 
+
+tooltip.item_cm_eslowdownmodifier.description=При ударе: Накладывает эффект усталости на врагов
+
+tooltip.item_cm_enauseamodifier.description=При ударе: Накладывает эффект тошноты на врагов
+
+tooltip.item_cm_ahpreplacementmodifier.description=При ударе: Меняет местами здоровье противника с вашим
+
+tooltip.item_cm_aoelightningmodifier.description1=При ударе: Всех врагов в радиусе ударяет молния
+tooltip.item_cm_aoelightningmodifier.description2=Радиус действия: 
+
+tooltip.item_cm_erandomtpmodifier.description=При ударе: Рандомно телепортирует врага
+
+tooltip.item_cm_elevitationmodifier.description=При ударе: Накладывает эффект левитации на врагов
+
+tooltip.item_ut_speedmodifier.description=Пассивно: Дает эффект скорости
+
+tooltip.item_ut_jumpmodifier.description=Пассивно: Дает эффект прыжков
+
+tooltip.item_ut_levitationmodifier.description=Пассивно: Дает эффект левитации
+
+tooltip.item_ut_invmodifier.description=Пассивно: Дает эффект невидимости
+
+tooltip.item_ut_regenmodifier.description=Пассивно: Дает эффект регенерации
+
+tooltip.item_ut_magnetmodifier.description1=Пассивно: Магнит. Притягивает вещи
+tooltip.item_ut_magnetmodifier.description2=Радиус действия: 
+
+tooltip.item_ut_wbmodifier.description=Пассивно: Дает эффект дыхания под водой если в воде
+
+tooltip.item_ut_nvisionmodifier.description=Пассивно: Автоматически дает ночное зрение в темных местах
+
+tooltip.item_ut_flightmodifier.description=Пассивно: Полет
+
+tooltip.item_ut_wsmodifier.description=Пассивно: Увеличивает скорость плавания
+
+tooltip.item_ut_saturmodifier.description=Пассивно: Автоматически кормит игрока
+
+tooltip.item_ut_wwmodifier.description=Пассивно: Дает эффект ходьбы по воде
+
+tooltip.item_ut_lwmodifier.description=Пассивно: Дает эффект ходьбы по лаве
+
+tooltip.item_ut_autosmmodifier.description=Пассивно: Переплавляет все, что вы добываете
+
+tooltip.item_def_fallingmodifier.description=Пассивно: Защищает игрока от падений
+
+tooltip.item_def_poisonmodifier.description=Пассивно: Защищает игрока от отравления
+
+tooltip.item_def_magicmodifier.description=Пассивно: Защищает игрока от магического урона
+
+tooltip.item_def_cactusmodifier.description=При получении урона: Возвращает аж до 40 процентов полученого урона врагу
+
+tooltip.item_def_invisiblemodifier.description1=Пассивно: Показывает всех невидимых сущностей в радиусе
+tooltip.item_def_invisiblemodifier.description2=Радиус действия: 
+
+tooltip.item_def_fireresmodifier.description=Пассивно: Дает эффект защиты от огня
+
+tooltip.item_def_adisarmmodifier.description=Пассивно: Защищает от обезоруживания
+
+tooltip.item_def_arrowmodifier.description=Пассивно: Защищает игрока от стрел
+
+tooltip.item_def_extmodifier.description=Пассивно: Защищает от огня
+
+tooltip.item_def_hphealmodifier.description=Пассивно: Исцеляет игрока если его здоровье ниже 30%
+
+tooltip.item_def_explosionmodifier.description=Пассивно: Защищает игрока от взрывов
+
+tooltip.item_def_luckmodifier.description=Пассивно: Дает эффект удачи
+
+tooltip.item_def_aoermodifier.description1=При получении урона: Перенаправляет полученный урон сущностям в радиусе
+tooltip.item_def_aoermodifier.description2=Радиус действия: 
+
+tooltip.item_def_protectionmodifier.description=Пассивно: Дает урона эффект защиты
+
+tooltip.item_def_dmageblockmodifier.description1=При получении урона: 
+tooltip.item_def_dmageblockmodifier.description2= процентный шанс парировать входящий урон
+
+tooltip.item_def_ainvisiblemodifier.description1=При получении урона: 
+tooltip.item_def_ainvisiblemodifier.description2= процентный шанс получить эффект невидимости
+
+tooltip.item_def_absorbtionmodifier.description=При получении урона: Дает эффект абсорбции
+
+tooltip.item_def_addhealthmodifier.description=Пассивно: Увеличивает максимальный запас здоровья
+
+tooltip.item_def_эффектsremovemodifier.description1=Пассивно: Каждые 
+tooltip.item_def_эффектsremovemodifier.description2= секунд снимает один негативный эффект
+
+tooltip.item_def_invsavemodifier.description=При смерти: Сохраняет инвентарь игрока
+
+checker.message.version=Новая версия Enhancer Reloaded
+checker.message.av=уже доступна:
+checker.message.changes=Изменения:
+checker.message.cant=Нельзя проверить обновления для Enhancer Reloaded.

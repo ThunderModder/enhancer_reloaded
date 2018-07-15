@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "particle": "лололло:blocks/нггггогоогног",
+        "/cube_all": "лололло:blocks/нггггогоогног"
+  

@@ -1,0 +1,6 @@
+{
+    "parent":"",
+    "textures": {
+        "layer0":"enhancer:items/testblock"
+    }
+}

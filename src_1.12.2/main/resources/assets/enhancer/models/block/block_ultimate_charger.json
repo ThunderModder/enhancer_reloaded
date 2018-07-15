@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "enhancer:blocks/block_ultimate_charger_top",
+        "front": "enhancer:blocks/block_ultimate_charger_front_on",
+        "side": "enhancer:blocks/block_ultimate_charger_side"
+    }
+}

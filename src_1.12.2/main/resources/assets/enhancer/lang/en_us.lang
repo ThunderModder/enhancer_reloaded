@@ -1,0 +1,248 @@
+itemGroup.Enhancer_Modifiers=Enhancer Modifiers
+itemGroup.Enhancer_BlocksNItems=Enhancer Blocks and Items
+
+key.enhanced=Open Enhanced Inv Key
+key.categories.enhanced=Enhancer Keys
+
+tile.block_ultimate_charger.name=Ultimate Charger
+tileentity.ultimatecharger.name=Ultimate Charger
+
+item.item_powerupgrade.name=Power Upgrade
+item.item_capacityupgrade.name=Capacity Upgrade
+item.item_flintplate.name=Flint Plate
+item.item_dcircuit.name=Diamond Circuit
+item.item_rcircuit.name=Red Circuit
+item.item_lcircuit.name=Lapis Circuit
+item.item_modcore.name=Modifier Core
+item.item_stpowermodule.name=Standart Power Module
+item.item_stcapacitymodule.name=Standart Capacity Module
+item.item_programmer.name=Programmer
+item.item_lightning_shard.name=Lightning Shard
+
+item.item_ut_speedmodifier.name=Modifier
+item.item_ut_jumpmodifier.name=Modifier
+item.item_ut_levitationmodifier.name=Modifier
+item.item_ut_invmodifier.name=Modifier
+item.item_ut_regenmodifier.name=Modifier
+item.item_ut_magnetmodifier.name=Modifier
+item.item_ut_wbmodifier.name=Modifier
+item.item_ut_nvisionmodifier.name=Modifier
+item.item_ut_flightmodifier.name=Modifier
+item.item_ut_wsmodifier.name=Modifier
+item.item_ut_saturmodifier.name=Modifier
+item.item_ut_wwmodifier.name=Modifier
+item.item_ut_lwmodifier.name=Modifier
+item.item_ut_autosmmodifier.name=Modifier
+item.item_cm_eburnmodifier.name=Modifier
+item.item_cm_epoisonmodifier.name=Modifier
+item.item_cm_ewithermodifier.name=Modifier
+item.item_cm_eblindmodifier.name=Modifier
+item.item_cm_eslowmodifier.name=Modifier
+item.item_cm_astrengthmodifier.name=Modifier
+item.item_cm_ajumpmodifier.name=Modifier
+item.item_cm_aspeedmodifier.name=Modifier
+item.item_cm_edisarmmodifier.name=Modifier
+item.item_cm_eexplosionmodifier.name=Modifier
+item.item_cm_eunluckmodifier.name=Modifier
+item.item_cm_ehungermodifier.name=Modifier
+item.item_cm_killordiemodifier.name=Modifier
+item.item_cm_ahealmodifier.name=Modifier
+item.item_cm_avampirismmodifier.name=Modifier
+item.item_cm_amagicdamagemodifier.name=Modifier
+item.item_cm_aabsorptionmodifier.name=Modifier
+item.item_cm_aaoemodifier.name=Modifier
+item.item_cm_aarmormodifier.name=Modifier
+item.item_cm_eslowdownmodifier.name=Modifier
+item.item_cm_enauseamodifier.name=Modifier
+item.item_cm_ahpreplacementmodifier.name=Modifier
+item.item_cm_aoelightningmodifier.name=Modifier
+item.item_cm_erandomtpmodifier.name=Modifier
+item.item_cm_elevitationmodifier.name=Modifier
+item.item_def_fallingmodifier.name=Modifier
+item.item_def_poisonmodifier.name=Modifier
+item.item_def_magicmodifier.name=Modifier
+item.item_def_cactusmodifier.name=Modifier
+item.item_def_invisiblemodifier.name=Modifier
+item.item_def_fireresmodifier.name=Modifier
+item.item_def_adisarmmodifier.name=Modifier
+item.item_def_arrowmodifier.name=Modifier
+item.item_def_extmodifier.name=Modifier
+item.item_def_hphealmodifier.name=Modifier
+item.item_def_explosionmodifier.name=Modifier
+item.item_def_luckmodifier.name=Modifier
+item.item_def_aoermodifier.name=Modifier
+item.item_def_protectionmodifier.name=Modifier
+item.item_def_dmageblockmodifier.name=Modifier
+item.item_def_ainvisiblemodifier.name=Modifier
+item.item_def_absorbtionmodifier.name=Modifier
+item.item_def_addhealthmodifier.name=Modifier
+item.item_def_effectsremovemodifier.name=Modifier
+item.item_def_invsavemodifier.name=Modifier
+
+item.item_redstone_alloy.name=Red Alloy
+item.item_diamond_grinder.name=Diamond Grinder
+
+item.item_weather_wand.name=Weather Wand
+item.item_magnet.name=Red Magnet
+
+tooltip.charge=Charge: 
+tooltip.power=Power: 
+tooltip.description=Description: 
+
+tooltip.tesrcharge=Charge: 
+
+tooltip.grinder.uses=Durability: 
+
+tooltip.type=Type: 
+tooltip.type.defence=Defence
+tooltip.type.utility=Utility
+tooltip.type.combat=Combat
+
+tooltip.energy=Requires: 
+
+
+tooltip.item_cm_aarmormodifier.description=On hit: Increased damage to armor
+
+tooltip.item_cm_eburnmodifier.description=On hit: Sets fire to your enemies
+
+tooltip.item_cm_epoisonmodifier.description=On hit: Imposes poison effect on your enemies
+
+tooltip.item_cm_ewithermodifier.description=On hit: Imposes wither effect on your enemies
+
+tooltip.item_cm_eblindmodifier.description=On hit: Imposes blind effect on your enemies
+
+tooltip.item_cm_eslowmodifier.description=On hit: Imposes slow effect on your enemies
+
+tooltip.item_cm_astrengthmodifier.description=On hit: 20 percent chance to get Sthrength effect
+
+tooltip.item_cm_ajumpmodifier.description=On hit: Gives jump effect
+
+tooltip.item_cm_aspeedmodifier.description=On hit: Gives speed effect
+
+tooltip.item_cm_edisarmmodifier.description1=On hit: 
+tooltip.item_cm_edisarmmodifier.description2= percent chance to disarm your enemy
+
+tooltip.item_cm_eexplosionmodifier.description=On hit: Creates explosion near your enemy
+
+tooltip.item_cm_eunluckmodifier.description=On hit: Imposes unluck effect on your enemies
+
+tooltip.item_cm_ehungermodifier.description=On hit: Imposes hunger effect on your enemies
+
+tooltip.item_cm_killordiemodifier.description=On hit: 50 percent chance to kill your enemy and 50 percent that you will be killed instead
+
+tooltip.item_cm_ahealmodifier.description=On hit: Heal effect
+
+tooltip.item_cm_avampirismmodifier.description=On hit: 15 percent chance to steal health
+
+tooltip.item_cm_amagicdamagemodifier.description1=On hit: 
+tooltip.item_cm_amagicdamagemodifier.description2= percent chance to deal additional magic damage
+
+tooltip.item_cm_aabsorptionmodifier.description=On hit: Absorbtion effect
+
+tooltip.item_cm_aaoemodifier.description1=On hit: Deal 20 percent of your attack damage to nearby enemies
+tooltip.item_cm_aaoemodifier.description2=Current radius: 
+
+tooltip.item_cm_eslowdownmodifier.description=On hit: Imposes mining fatigue effect on your enemies
+
+tooltip.item_cm_enauseamodifier.description=On hit: Imposes nausea effect on your enemies
+
+tooltip.item_cm_ahpreplacementmodifier.description=On hit: Replaces your health with enemy health
+
+tooltip.item_cm_aoelightningmodifier.description1=On hit: Lightnings strike all enemies in a radius
+tooltip.item_cm_aoelightningmodifier.description2=Current radius: 
+
+tooltip.item_cm_erandomtpmodifier.description=On hit: Randomly teleports your enemy
+
+tooltip.item_cm_elevitationmodifier.description=On hit: Imposes levitation effect on your enemies
+
+tooltip.item_ut_speedmodifier.description=Passively: Gives speed effect
+
+tooltip.item_ut_jumpmodifier.description=Passively: Gives jump effect
+
+tooltip.item_ut_levitationmodifier.description=Passively: Gives levitation effect
+
+tooltip.item_ut_invmodifier.description=Passively: Gives invisibility effect
+
+tooltip.item_ut_regenmodifier.description=Passively: Gives regeneration effect
+
+tooltip.item_ut_magnetmodifier.description1=Passively: Simple magnet
+tooltip.item_ut_magnetmodifier.description2=Current radius: 
+
+tooltip.item_ut_wbmodifier.description=Passively: Gives water breath effect when in the water
+
+tooltip.item_ut_nvisionmodifier.description=Passively: Automatically gives night vision effect in dark places
+
+tooltip.item_ut_flightmodifier.description=Passively: Flight
+
+tooltip.item_ut_wsmodifier.description=Passively: Increased swimming speed in the water
+
+tooltip.item_ut_saturmodifier.description=Passively: Automatically feeds the player
+
+tooltip.item_ut_wwmodifier.description=Passively: Gives water walking effect
+
+tooltip.item_ut_lwmodifier.description=Passively: Gives lava walking effect
+
+tooltip.item_ut_autosmmodifier.description=Passively: Auto smelts all that you`re mining
+
+tooltip.item_def_fallingmodifier.description=Passively: Protects the player from falling damage
+
+tooltip.item_def_poisonmodifier.description=Passively: Protects the player from poison damage
+
+tooltip.item_def_magicmodifier.description=Passively: Protects the player from magic damage
+
+tooltip.item_def_cactusmodifier.description=On hurt: Returns up to 40 percent of taken damage to your enemy
+
+tooltip.item_def_invisiblemodifier.description1=Passively: Shows all invisible enemies in a radius
+tooltip.item_def_invisiblemodifier.description2=Current radius: 
+
+tooltip.item_def_fireresmodifier.description=Passively: Gives fire resistance effect
+
+tooltip.item_def_adisarmmodifier.description=Passively: Anti disarm modifier
+
+tooltip.item_def_arrowmodifier.description=Passively: Protects the player from arrow damage
+
+tooltip.item_def_extmodifier.description=Passively: Extinguish the player
+
+tooltip.item_def_hphealmodifier.description=Passively: Heals the player if his health is below 30 percent
+
+tooltip.item_def_explosionmodifier.description=Passively: Protects the player from explosion damage
+
+tooltip.item_def_luckmodifier.description=Passively: Gives luck effect
+
+tooltip.item_def_aoermodifier.description1=On hurt: Redirects damage to nearby entities
+tooltip.item_def_aoermodifier.description2=Current radius: 
+
+tooltip.item_def_protectionmodifier.description=Passively: Gives damage resistant effect
+
+tooltip.item_def_dmageblockmodifier.description1=On hurt: 
+tooltip.item_def_dmageblockmodifier.description2= percent chance to block damage
+
+tooltip.item_def_ainvisiblemodifier.description1=On hurt: 
+tooltip.item_def_ainvisiblemodifier.description2= percent chance to get effect of invisibility
+
+tooltip.item_def_absorbtionmodifier.description=On hurt: Gives absorbtion effect
+
+tooltip.item_def_addhealthmodifier.description=Passively: Increased max health
+
+tooltip.item_def_effectsremovemodifier.description1=Passively: Every 
+tooltip.item_def_effectsremovemodifier.description2= seconds removes one negative effect
+
+tooltip.item_def_invsavemodifier.description=On death: Saves player and modifier inventory
+
+checker.message.version=New version of Enhancer Reloaded
+checker.message.av=is available:
+checker.message.changes=Changes:
+checker.message.cant=Can not check updates for Enhancer Reloaded.
+
+
+
+
+
+
+
+
+
+
+
+
+

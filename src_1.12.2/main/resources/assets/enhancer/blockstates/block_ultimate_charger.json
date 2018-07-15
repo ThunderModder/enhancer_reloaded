@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "enhancer:block_ultimate_charger" },
+        "facing=south": { "model": "enhancer:block_ultimate_charger", "y": 180 },
+        "facing=west":  { "model": "enhancer:block_ultimate_charger", "y": 270 },
+        "facing=east":  { "model": "enhancer:block_ultimate_charger", "y": 90 }
+    }
+}

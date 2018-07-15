@@ -1,0 +1,6 @@
+{
+    "parent":"item/handlheld",
+    "textures": {
+        "layer0":"enhancer:items/iiiiiiiiiiitem"
+    }
+}
