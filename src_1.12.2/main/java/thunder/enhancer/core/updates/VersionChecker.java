@@ -20,7 +20,7 @@ public class VersionChecker implements Runnable {
 
     @Override
     public void run() {
-        try(InputStream in = new URL("https://raw.githubusercontent.com/ThunderModder/bionisation3/master/update1.12.2.txt").openStream()) {
+        try(InputStream in = new URL("https://raw.githubusercontent.com/ThunderModder/enhancer_reloaded/master/enhancer1.12.2.txt").openStream()) {
             String [] version = IOUtils.readLines(in).get(0).split("_");
             latestVersion = version[0];
             newVersionURL = version[1];
